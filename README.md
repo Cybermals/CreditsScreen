@@ -8,7 +8,7 @@ A simple credits screen for Godot projects.
 3. open the "CreditsScreen" scene and set the "Credits Text" poperty of the
 "CreditsScreen" node to a list of the people who worked on your project. Example:
 
-`
+```
 Executive Producer
 PersonA
 
@@ -29,7 +29,7 @@ Audio
 PersonI
 PersonJ
 PersonK
-`
+```
 
 4. adjust the "Credits Speed" property of the "CreditsScreen" node if you like. The
 default should be sufficient for most projects
