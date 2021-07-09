@@ -4,7 +4,7 @@ A simple credits screen for Godot projects.
 
 ## Instructions
 1. clone or download this repo
-2. copy the "scenes" and "scripts" folders to your main project folder
+2. copy the repo folder into your main project folder
 3. open the "CreditsScreen" scene and set the "Credits Text" poperty of the
 "CreditsScreen" node to a list of the people who worked on your project. Example:
 
