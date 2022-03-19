@@ -1,4 +1,4 @@
-extends CanvasLayer
+extends Control
 
 export var scroll_speed = 20
 export (String, MULTILINE) var credits_text
